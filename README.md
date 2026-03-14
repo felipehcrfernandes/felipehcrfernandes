@@ -15,4 +15,3 @@
 </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipehcrfernandes&theme=highcontrast)](https://git.io/streak-stats)
