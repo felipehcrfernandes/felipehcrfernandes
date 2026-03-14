@@ -15,4 +15,4 @@
 </a>
 </p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehcrfernandes&commits_year=2026)
